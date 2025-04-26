@@ -22,11 +22,14 @@ https://dortania.github.io/OpenCore-Install-Guide/
 | Ethernet    | Intel I219-LM           |
 | WLAN        | Intel Wireless-AC 9560 |
 
+## OpenCore Legacy Patcher
+After installing macOS Sequoia, you need to follow this guide to enable Wifi: https://github.com/randomappleboi/Native-Wifi-for-Hackintoshes-with-Intel-Wireless-cards-on-macOS-sequoia
+
 
 ##  Function
 - [x] Onboard sound card
 - [x] Onboard network card
-- [x] Wifi (not working on Sequoia 15.4.1 yet)
+- [x] Wifi
 - [x] sleep/wake up
 - [x] USB2.0 / USB 3.0
 - [ ] DRM
